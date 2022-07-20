@@ -1,2 +1,2 @@
 # images
-图片存放
+motalJava学习笔记相关图片存放
